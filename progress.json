@@ -221,5 +221,16 @@
       "Great work pushing changes to the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "ignoring-somethings",
+    "started_at": 1769003785.135559,
+    "completed_at": 1769003804.479004,
+    "comments": [
+      "You are still ignoring why_am_i_hidden.txt. Find where the file is and fix that.",
+      "You should not be ignoring this/is/very/nested/find_me.txt!",
+      "You should be using ** to match all subfolders to ignore runaway.txt."
+    ],
+    "status": "Incomplete"
   }
 ]
