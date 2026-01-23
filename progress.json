@@ -333,5 +333,15 @@
       "Reset the repository using \"gitmastery progress reset\" and start again"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "merge-undo",
+    "started_at": 1769156069.562431,
+    "completed_at": 1769156073.860823,
+    "comments": [
+      "It appears the merge commits are still in the history of the 'main' branch. This shouldn't be the case",
+      "Reset the repository using \"gitmastery progress reset\" and start again"
+    ],
+    "status": "Incomplete"
   }
 ]
